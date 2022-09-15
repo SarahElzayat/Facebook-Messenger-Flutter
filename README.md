@@ -1,7 +1,7 @@
 
 # Facebook Messenger Replica
 
-This project is a replica of the facebook messanger screen.
+Through my flutter learning journey, I created a replica of the facebook messanger screen.
 
 
 
