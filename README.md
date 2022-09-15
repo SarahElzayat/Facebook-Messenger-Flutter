@@ -7,7 +7,7 @@ This project is a replica of the facebook messanger screen.
 
 ## Screenshots
 
-![](https://github.com/SarahElzayat/Facebook-Messenger/blob/master/Screenshots/app.gif)
+<img src="https://github.com/SarahElzayat/Facebook-Messenger/blob/master/Screenshots/app.gif" width="30%" height="30%"/>
 
 
 ## Authors
